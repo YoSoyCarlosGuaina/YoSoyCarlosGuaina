@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Carlos Guaina</h1>
-<h3 align="center">Electronic Engineer | Systems Developer | Technology Enthusiast</h3>
+<h1 align="center">Hola 👋, soy Carlos Guaina</h1>
+<h3 align="center">Ingeniero Electrónico | Desarrollador de Sistemas | Entusiasta de la Tecnología</h3>
 
-- 🔭 I’m currently working on **innovative technological solutions and automation projects**
+- 🔭 Actualmente, trabajo en **soluciones tecnológicas innovadoras y proyectos de automatización**
 
-- 👯 I’m looking to collaborate on **industrial automation, embedded systems, and IoT solutions**
+- 👯 Busco colaborar en **automatización industrial, sistemas embebidos y soluciones IoT**
 
-- 💬 Ask me about **Java, C++, Embedded Systems, Automation, Control Systems, IoT**
+- 💬 Pregúntame sobre **Java, C++, Sistemas Embebidos, Automatización, Control de Procesos, IoT**
 
-- 📫 How to reach me **carlosguaina2020@gmail.com**
+- 📫 Contáctame en **carlosguaina2025@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="[www.linkedin.com/in/carlosguaina](https://www.linkedin.com/in/carlosguaina/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosoycarlosguaina" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carlosguaina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosguaina" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@carlosguainaTHF" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/YouTube_social_red_circle_%282017%29.svg" alt="CarlosGuainaTHF" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
