@@ -58,6 +58,4 @@
 </ul>
 
 
-usa esta informacion pero usando el formato que te pase de primero  necesito que mi cuenta yosoycarlsoguaina se vea profesional
-
 
