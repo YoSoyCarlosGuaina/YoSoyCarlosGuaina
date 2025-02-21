@@ -19,9 +19,6 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_YouTube_2017.svg" alt="YouTube" height="40" width="40" />
   </a>
   
-  </a> 
-  [website]:https://www.youtube.com/@carlosguainaTHF
-  </a>
 </p>
 
 
