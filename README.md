@@ -22,8 +22,8 @@
 </p>
 
 ### :zap: Actividad reciente
-<!--RECENT_SECTION:activity-->
-<!--RECENT_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <h3 align="left">🛠️ Lenguajes y herramientas:</h3>
 <p align="left"> 
