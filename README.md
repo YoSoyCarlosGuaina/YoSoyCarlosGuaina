@@ -13,9 +13,14 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/carlosguaina/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    
   </a> 
   <a href="https://www.youtube.com/@carlosguainaTHF" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_YouTube_2017.svg" alt="YouTube" height="40" width="40" />
+  </a>
+  
+  </a> 
+  [website]:https://www.youtube.com/@carlosguainaTHF
   </a>
 </p>
 
