@@ -21,6 +21,10 @@
   
 </p>
 
+###:zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <h3 align="left">🛠️ Lenguajes y herramientas:</h3>
 <p align="left"> 
