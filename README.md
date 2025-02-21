@@ -8,7 +8,10 @@
 - 💬 Pregúntame sobre **Java, C++, Sistemas Embebidos, Automatización, Control de Procesos, IoT**
 
 - 📫 Contáctame  
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.youtube.com%2F%40carlosguainaTHF&up_message=Youtube%20Carlos%20Guaina)
+
+
+![Emaill](https://img.shields.io/badge/EMAIL-carlosguaina2025%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white) &nbsp; ![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CarlosGuaina-blue?style=flat-square&logo=linkedin&logoColor=white)
+
 
 
 
@@ -18,11 +21,8 @@
   <a href="https://www.linkedin.com/in/carlosguaina/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
     
-  </a> 
-  <a href="https://www.youtube.com/@carlosguainaTHF" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_YouTube_2017.svg" alt="YouTube" height="40" width="40" />
-  </a>
   
+
 </p>
 
 ### :zap: Actividad reciente
