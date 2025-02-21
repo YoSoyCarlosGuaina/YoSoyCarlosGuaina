@@ -21,7 +21,7 @@
   
 </p>
 
-###:zap: Actividad reciente
+### :zap: Actividad reciente
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
