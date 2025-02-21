@@ -7,7 +7,10 @@
 
 - 💬 Pregúntame sobre **Java, C++, Sistemas Embebidos, Automatización, Control de Procesos, IoT**
 
-- 📫 Contáctame en **carlosguaina2025@gmail.com**
+- 📫 Contáctame  https://img.shields.io/website?url=https%3A%2F%2Fwww.youtube.com%2F%40carlosguainaTHF
+
+
+
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
