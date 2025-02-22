@@ -25,12 +25,14 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/carlosguaina">
-    <img src="https://img.shields.io/badge/Linkedin-CarlosGuaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="220"/>
+    <img src="https://img.shields.io/badge/Linkedin-CarlosGuaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="215"/>
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@carlosguainaTHF">
-    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="230"/>
+    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="225"/>
 </a>
+
+---
 
 <h3 align="left">📜 Certificaciones:</h3>
 <a href="https://platzi.com/p/carlosguaina2020/">
