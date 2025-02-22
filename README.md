@@ -10,15 +10,15 @@
 - 📫 Contáctame  
 
 <a href="mailto:carlosguaina2025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-carlosguaina2025%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white" width="230"/>
+    <img src="https://img.shields.io/badge/Email-carlosguaina2025%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white" width="300"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/carlosguaina">
-    <img src="https://img.shields.io/badge/LINKEDIN-carlosguaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="1500"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-carlosguaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="300"/>
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@carlosguainaTHF">
-    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="170"/>
+    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="300"/>
 </a>
 
 
