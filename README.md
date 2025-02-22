@@ -12,31 +12,19 @@
 ![Vías de Contacto](https://img.shields.io/badge/V%C3%8DAS%20DE%20CONTACTO-blue?style=flat-square&logo=github&logoColor=white)
 
 
-<table>
-  <tr>
-    <td>
-      <a href="mailto:carlosguaina2025@gmail.com">
-        <img src="https://img.shields.io/badge/Email-carlosguaina2025%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white" width="200"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/carlosguaina">
-        <img src="https://img.shields.io/badge/LINKEDIN-carlosguaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="200"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/@carlosguainaTHF">
-        <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="200"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://platzi.com/p/carlosguaina2020/">
-        <img src="https://img.shields.io/badge/Certificados%20Platzi-ffd700?style=flat-square&logo=education&logoColor=white" width="200"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="mailto:carlosguaina2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-carlosguaina2025%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white" width="300"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/carlosguaina">
+    <img src="https://img.shields.io/badge/LINKEDIN-carlosguaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="190"/>
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@carlosguainaTHF">
+    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="220"/>
+</a>
 
+[![Certificados Platzi](https://img.shields.io/badge/Certificados%20Platzi-ffd700?style=flat-square&logo=education&logoColor=white)](https://platzi.com/p/carlosguaina2020/)
 
 
 ### :zap: Actividad reciente
