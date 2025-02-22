@@ -17,7 +17,8 @@
 
 ---
 
-![Vías de Contacto](https://img.shields.io/badge/V%C3%8DAS%20DE%20CONTACTO-008080?style=flat-square&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/V%C3%8DAS%20DE%20CONTACTO-black?style=flat-square&logo=github&logoColor=white" width="220"/>
+
 
 
 
