@@ -63,8 +63,12 @@ Last Updated: Friday, February 21st, 2025, 1:01:38 PM
   <li>🐍 Curso de Programación en Python Pycharm</li>
 </ul>
 
+
+
+
 <h4>🎓 **Cursos Platzi**:</h4>
 <ul>
+ 
   <li>💾 Curso Básico de Computadores e Informática</li>
   <li>🤖 Curso de Introducción a la Inteligencia Artificial</li>
   <li>🕹️ Curso de Introducción a Unity: Interfaz</li>
