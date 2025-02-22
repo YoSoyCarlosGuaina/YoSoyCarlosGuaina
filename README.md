@@ -1,11 +1,19 @@
-<h1 align="center">Hola 👋, soy Carlos Guaina</h1>
-<h3 align="center">Ingeniero Electrónico | Desarrollador de Sistemas | Entusiasta de la Tecnología ⚙️</h3>
+<h1 align="center">👋 ¡Hola! Soy Carlos Guaina</h1>
+<h3 align="center">⚙️ Ingeniero Electrónico | 💻 Desarrollador de Sistemas | 🚀 Entusiasta de la Tecnología</h3>
 
-- 🔭 Actualmente, trabajo en **soluciones tecnológicas innovadoras y proyectos de automatización**
+---
 
-- 👯 Busco colaborar en **automatización industrial, sistemas embebidos y soluciones IoT**
+🔭 **Actualmente trabajando en:**  
+💡 *Soluciones tecnológicas innovadoras y proyectos de automatización.*  
 
-- 💬 Pregúntame sobre **Java, C++, Sistemas Embebidos, Automatización, Control de Procesos, IoT**
+👯 **Busco colaborar en:**  
+🤖 *Automatización industrial, sistemas embebidos y soluciones IoT.*  
+
+💬 **Pregúntame sobre:**  
+📌 *Java, C++, Sistemas Embebidos, Automatización, Control de Procesos, IoT.*  
+
+---
+
 
 ---
 
@@ -17,7 +25,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/carlosguaina">
-    <img src="https://img.shields.io/badge/LINKEDIN-carlosguaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="185"/>
+    <img src="https://img.shields.io/badge/Linkedin-CarlosGuaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="185"/>
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@carlosguainaTHF">
@@ -66,23 +74,6 @@ Last Updated: Friday, February 21st, 2025, 1:01:38 PM
   <li>🐍 Curso de Programación en Python Pycharm</li>
 </ul>
 
-
-
-
-<h4>🎓 **Cursos Platzi**:</h4>
-<ul>
- 
-  <li>💾 Curso Básico de Computadores e Informática</li>
-  <li>🤖 Curso de Introducción a la Inteligencia Artificial</li>
-  <li>🕹️ Curso de Introducción a Unity: Interfaz</li>
-  <li>🧠 Curso de Pensamiento Lógico: Algoritmos y Diagramas de Flujo</li>
-  <li>💻 Curso de Pensamiento Lógico: Lenguajes de Programación</li>
-  <li>📊 Curso de Pensamiento Lógico: Manejo de Datos, Estructuras y Funciones</li>
-  <li>🎥 Curso de Streaming con OBS</li>
-  <li>💬 Curso de Técnicas de Negociación</li>
-  <li>🚀 Curso de Marca Personal</li>
-  <li>🔢 Curso de Programación Básica</li>
-</ul>
 
 
 
