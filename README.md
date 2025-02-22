@@ -24,9 +24,8 @@
     <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="220"/>
 </a>
 
+[![Certificados Platzi](https://img.shields.io/badge/Certificados%20Platzi-ffd700?style=flat-square&logo=education&logoColor=white)](https://platzi.com/p/carlosguaina2020/)
 
-
-</p>
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
