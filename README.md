@@ -14,7 +14,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/carlosguaina">
-    <img src="https://img.shields.io/badge/LINKEDIN-carlosguaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="150"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-carlosguaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="1500"/>
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@carlosguainaTHF">
