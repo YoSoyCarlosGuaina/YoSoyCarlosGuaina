@@ -21,15 +21,15 @@
 
 
 <a href="mailto:carlosguaina2025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-carlosguaina2025%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white" width="350"/>
+    <img src="https://img.shields.io/badge/Email-carlosguaina2025%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white" width="345"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/carlosguaina">
-    <img src="https://img.shields.io/badge/Linkedin-CarlosGuaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="235"/>
+    <img src="https://img.shields.io/badge/Linkedin-CarlosGuaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="225"/>
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@carlosguainaTHF">
-    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="275"/>
+    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="270"/>
 </a>
 
 <h3 align="left">📜 Certificaciones:</h3>
