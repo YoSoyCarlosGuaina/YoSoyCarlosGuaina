@@ -32,9 +32,11 @@
     <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="225"/>
 </a>
 
+<h3 align="left">📜 Certificaciones:</h3>
 <a href="https://platzi.com/p/carlosguaina2020/">
     <img src="https://img.shields.io/badge/Certificaciones%20PLATZI-gray?style=flat-square&logo=platzi&logoColor=white&labelColor=gray&color=blue" width="200"/>
 </a>
+
 
 
 <h3 align="left">🛠️ Lenguajes y herramientas:</h3>
