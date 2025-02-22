@@ -17,7 +17,8 @@
 
 ---
 
-![Vías de Contacto](https://img.shields.io/badge/V%C3%8DAS%20DE%20CONTACTO-blue?style=flat-square&logo=github&logoColor=white)
+![Vías de Contacto](https://img.shields.io/badge/V%C3%8DAS%20DE%20CONTACTO-008080?style=flat-square&logo=github&logoColor=white)
+
 
 
 <a href="mailto:carlosguaina2025@gmail.com">
@@ -50,6 +51,16 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">📚 Cursos Realizados:</h3>
+
+<ul>
+  <li>💻 Curso Básico de Programación aplicada a PLC</li>
+  <li>🔧 Curso de Programación industrial en lenguaje C++</li>
+  <li>🖥️ Curso de Programación en Arduino</li>
+  <li>☕ Curso de Programación en Java NetBeans</li>
+  <li>🐍 Curso de Programación en Python Pycharm</li>
+</ul>
+
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
@@ -64,15 +75,6 @@ Last Updated: Friday, February 21st, 2025, 1:01:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
-<h3 align="left">📚 Cursos Realizados:</h3>
-
-<ul>
-  <li>💻 Curso Básico de Programación aplicada a PLC</li>
-  <li>🔧 Curso de Programación industrial en lenguaje C++</li>
-  <li>🖥️ Curso de Programación en Arduino</li>
-  <li>☕ Curso de Programación en Java NetBeans</li>
-  <li>🐍 Curso de Programación en Python Pycharm</li>
-</ul>
 
 
 
