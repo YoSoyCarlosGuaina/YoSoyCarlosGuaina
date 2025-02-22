@@ -9,8 +9,8 @@
 
 - 📫 Contáctame  
 
+[![Email](https://img.shields.io/badge/Email-carlosguaina2025%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosguaina2025@gmail.com) &nbsp; [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-carlosguaina-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosguaina) &nbsp; [![YouTube](https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@carlosguainaTHF)
 
-![Emaill](https://img.shields.io/badge/EMAIL-carlosguaina2025%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white) &nbsp; ![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CarlosGuaina-blue?style=flat-square&logo=linkedin&logoColor=white)
 
 
 
