@@ -29,7 +29,7 @@
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@carlosguainaTHF">
-    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="270"/>
+    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="220"/>
 </a>
 
 <h3 align="left">📜 Certificaciones:</h3>
