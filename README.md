@@ -18,7 +18,7 @@
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@carlosguainaTHF">
-    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="210"/>
+    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="220"/>
 </a>
 
 
