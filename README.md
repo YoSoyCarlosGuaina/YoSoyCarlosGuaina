@@ -25,11 +25,11 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/carlosguaina">
-    <img src="https://img.shields.io/badge/Linkedin-CarlosGuaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="215"/>
+    <img src="https://img.shields.io/badge/Linkedin-CarlosGuaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="210"/>
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@carlosguainaTHF">
-    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="250"/>
+    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="255"/>
 </a>
 
 ---
