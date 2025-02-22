@@ -17,11 +17,11 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/carlosguaina">
-    <img src="https://img.shields.io/badge/LINKEDIN-carlosguaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="180"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-carlosguaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="185"/>
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@carlosguainaTHF">
-    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="220"/>
+    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="225"/>
 </a>
 
 <a href="https://platzi.com/p/carlosguaina2020/">
