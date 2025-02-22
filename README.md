@@ -7,7 +7,8 @@
 
 - 💬 Pregúntame sobre **Java, C++, Sistemas Embebidos, Automatización, Control de Procesos, IoT**
 
-- 📫 Contáctame  
+![Vías de Contacto](https://img.shields.io/badge/V%C3%8DAS%20DE%20CONTACTO-blue?style=flat-square&logo=github&logoColor=white)
+
 
 <a href="mailto:carlosguaina2025@gmail.com">
     <img src="https://img.shields.io/badge/Email-carlosguaina2025%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white" width="300"/>
