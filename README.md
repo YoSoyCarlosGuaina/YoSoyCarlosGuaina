@@ -34,7 +34,7 @@
 
 <h3 align="left">📜 Certificaciones:</h3>
 <a href="https://platzi.com/p/carlosguaina2020/">
-    <img src="https://img.shields.io/badge/Certificaciones%20PLATZI-gray?style=flat-square&logo=platzi&logoColor=white&labelColor=gray&color=blue" width="200"/>
+    <img src="https://img.shields.io/badge/Certificaciones%20PLATZI-gray?style=flat-square&logo=platzi&logoColor=white&labelColor=gray&color=blue" width="250"/>
 </a>
 
 
