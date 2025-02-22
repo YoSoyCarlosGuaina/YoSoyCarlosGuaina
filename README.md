@@ -6,8 +6,7 @@
 - 👯 Busco colaborar en **automatización industrial, sistemas embebidos y soluciones IoT**
 
 - 💬 Pregúntame sobre **Java, C++, Sistemas Embebidos, Automatización, Control de Procesos, IoT**
-
-
+<br>
 ---
 
 ![Vías de Contacto](https://img.shields.io/badge/V%C3%8DAS%20DE%20CONTACTO-blue?style=flat-square&logo=github&logoColor=white)
