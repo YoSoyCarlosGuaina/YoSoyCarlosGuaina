@@ -16,7 +16,8 @@
 
 ---
 
-<img src="https://img.shields.io/badge/V%C3%8DAS%20DE%20CONTACTO-transparent?style=for-the-badge&logo=github&logoColor=white" width="250"/>
+<img src="https://img.shields.io/badge/V%C3%8DAS%20DE%20CONTACTO-black?style=flat-square&logo=github&logoColor=white" width="250"/>
+
 
 
 <a href="mailto:carlosguaina2025@gmail.com">
