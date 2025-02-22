@@ -9,19 +9,19 @@
 
 - 📫 Contáctame  
 
-[![Email](https://img.shields.io/badge/Email-carlosguaina2025%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosguaina2025@gmail.com) &nbsp; [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-carlosguaina-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosguaina) &nbsp; [![YouTube](https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@carlosguainaTHF)
+<a href="mailto:carlosguaina2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-carlosguaina2025%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white" width="230"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/carlosguaina">
+    <img src="https://img.shields.io/badge/LINKEDIN-carlosguaina-blue?style=flat-square&logo=linkedin&logoColor=white" width="150"/>
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@carlosguainaTHF">
+    <img src="https://img.shields.io/badge/Youtube-carlosguainaTHF-red?style=flat-square&logo=youtube&logoColor=white" width="170"/>
+</a>
 
 
-
-
-
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/carlosguaina/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-    
-  
 
 </p>
 
