@@ -6,7 +6,6 @@
 - 👯 Busco colaborar en **automatización industrial, sistemas embebidos y soluciones IoT**
 
 - 💬 Pregúntame sobre **Java, C++, Sistemas Embebidos, Automatización, Control de Procesos, IoT**
-<br>
 
 ---
 
